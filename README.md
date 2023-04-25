@@ -3,3 +3,4 @@
 # Await/Async and Promises
 # Call backs
 #js map
+# data types and varirables 
